@@ -1,5 +1,5 @@
 
-# Fascynująca Analiza Danych EDA Tytanic: Eksploracja Domenowa
+# Analiza Danych EDA Tytanic: Eksploracja Domenowa
 
 Zapraszam do zapoznania się z wyjątkowym projektem mojego autorstwa, który przeniesie nas w świat analizy danych o katastrofie Tytanica za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na tą katastrofę. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci twoją wiedzę i zainspiruje do dalszych badań.
 
