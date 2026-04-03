@@ -1,0 +1,16 @@
+site_name: Moje projekty
+site_author: Marcin Turczyk
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette:
+    primary: blue
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Titanic": tytanic/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
